@@ -1,5 +1,6 @@
 .navbar{
     background-color: rgb(53, 53, 53);
+    position: fixed;
 }
 
 #topnavbar {
